@@ -2,7 +2,17 @@
 # 💼 Javeria Asif — Web Developer & Creative Technologist
 
 Welcome to my personal portfolio repository — built with clean HTML and CSS to reflect who I am and what I create.
-
+🎓 Education & Learning
+🧑‍🎓 Bachelor of Science in Computer Science
+Government College University, Faisalabad
+2024 – 2028 
+📘 Current Focus Areas
+- HTML & CSS fundamentals
+- Responsive web design
+- Python programming
+- Version control (Git & GitHub)
+- UI/UX basics & accessibility best practices
+I'm committed to continuous growth through online courses, projects, and hands-on development practice.
 ## 🌟 About Me
 
 I’m a passionate **front-end web developer** with a strong eye for design and a mind for usability. I enjoy building elegant, functional web experiences and am constantly learning new tools and technologies to improve my craft.
