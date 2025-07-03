@@ -24,7 +24,7 @@ A lightweight receipt generator made with HTML, CSS, and JavaScript — perfect 
 
 I’m always open to new ideas, collaborations, and conversations. Feel free to reach out:
 
-- 📧 Email: [javeria.asif@example.com](mailto:javeria.asif@example.com)
+- 📧 Email: [jaweriaasif2406@gmail.com](mailto:jaweriaasif2406@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/jaweria-asif](https://www.linkedin.com/in/jaweria-asif-4ba8b8366)
 
 ---
