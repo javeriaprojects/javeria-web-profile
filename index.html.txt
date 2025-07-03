@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Javeria Asif | Portfolio</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fdfdfd;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #4CAF50;
+      color: white;
+      text-align: center;
+      padding: 50px 20px 30px;
+    }
+
+    header img {
+      margin-top: 20px;
+      width: 160px;
+      height: 160px;
+      border-radius: 50%;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    h2 {
+      color: #4CAF50;
+    }
+
+    .project, .contact {
+      margin-top: 30px;
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Javeria Asif</h1>
+    <p>Web Developer | Designer | Learner</p>
+    <img src="https://example.com/javeria-profile.jpg" alt="Javeria Asif">
+  </header>
+
+  <section>
+    <h2>Online Presence</h2>
+
+    <div class="project">
+      <h3>🔗 GitHub Project</h3>
+      <p>Explore one of my projects on GitHub — a simple and handy receipt generator.</p>
+      <p>
+        <a href="https://github.com/javeriaprojects/generate-recepit.git" target="_blank">
+          github.com/javeriaprojects/generate-recepit
+        </a>
+      </p>
+    </div>
+
+    <div class="contact">
+      <h3>👩‍💼 Connect with Me</h3>
+      <p>I’m always open to collaboration and networking. Feel free to reach out:</p>
+      <ul>
+        <li>Email: <a href="mailto:javeria.asif@example.com">javeria.asif@example.com</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/jaweria-asif-4ba8b8366" target="_blank">linkedin.com/in/jaweria-asif</a></li>
+      </ul>
+    </div>
+  </section>
+
+</body>
+</html>
